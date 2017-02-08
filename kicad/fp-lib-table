@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name hm-mod-uart)(type KiCad)(uri "$(KIPRJMOD)/hm-mod-uart.pretty")(options "")(descr ""))
+)
