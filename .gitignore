@@ -1,2 +1,4 @@
 *.bak
-*-rescue.lib
+*.bck
+*.net
+*.kicad_pcb-bak
