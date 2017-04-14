@@ -18,13 +18,10 @@
 |TRX1|HM-MOD-UART|aus ELV Bausatz|
 |P1|Buchsenleiste 2x6|aus ELV Bausatz
 |U1|DS3231 / SOIC-16W ||
-|R1|1kΩ / 0805||
-|R2|1kΩ / 0805||
-|R3|4.7kΩ / 0805||
-|R4|4.7kΩ / 0805||
-|C1|100nF / 0805||
+|R1,R2|1kΩ / 0805||
+|R3,R4|4.7kΩ / 0805||
+|C1,C3|100nF / 0805||
 |C2|100µF/10V / Tantal B||
-|C3|100nF / 0805||
 |BT1|Batteriehalter CR1220||
 |CR1220|Batterie CR1220||
 
