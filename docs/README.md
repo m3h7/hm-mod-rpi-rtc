@@ -13,17 +13,19 @@
 **Anmerkung**: Bestückungszeichnung der Batteriehalterung BT1 ist falsch. Eingesetzt (siehe untere Ansicht) ist die Halterung korrekt (Issue #3)
 
 ## Stückliste
-|Bezeichnung|Wert / Bauform|Anmerkung|
-|---|---|---|
-|TRX1|HM-MOD-UART|aus ELV Bausatz|
-|P1|Buchsenleiste 2x6|aus ELV Bausatz
-|U1|DS3231 / SOIC-16W ||
-|R1,R2|1kΩ / 0805||
-|R3,R4|4.7kΩ / 0805||
-|C1,C3|100nF / 0805||
-|C2|100µF/10V / Tantal B||
-|BT1|Batteriehalter CR1220||
-|CR1220|Batterie CR1220||
+|Bezeichnung|Wert / Bauform|Anmerkung|Reichelt Nr.|
+|---|---|---|---|
+|TRX1|HM-MOD-UART|aus ELV Bausatz|-|
+|P1|Buchsenleiste 2x6|aus ELV Bausatz|-|
+|U1|DS3231 / SOIC-16W ||DS 3231 S|
+|R1,R2|1kΩ / 0805||RND 0805 1 1,0K
+|R3,R4|4.7kΩ / 0805||RND 0805 1 4,7K|
+|C1,C3|100nF / 0805||X7R 0805 BF 100N|
+|C2|100µF/10V / Tantal B||TAJ 3528 100/10|
+|BT1|Batteriehalter CR1220||-|
+|CR1220|Batterie CR1220||CR 1220|
+
+* Reichelt Bestellnummern ohne Garantie.
 
 ## Ansichten
 - Bestückte Vorderseite
